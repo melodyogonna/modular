@@ -21,3 +21,4 @@ boto3
 click>=8.0.0
 google-auth
 google-cloud-bigquery
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
